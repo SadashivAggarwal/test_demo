@@ -1,2 +1,2 @@
 Hello Simplilearn!
-I learned
+I learned how to push the file to remote repo.
