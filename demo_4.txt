@@ -1,0 +1,4 @@
+Hello Simplilearn!
+Why the command git diff didn't work for the demo.txt file?
+demo_3: learned how to push a file and changes in the file to global repo. 
+demo_4: now learn how to merge 3 files 
