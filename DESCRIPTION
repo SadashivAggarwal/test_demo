@@ -1,0 +1,25 @@
+Package: SENDQSARKidney
+Type: Package
+Title: SENDQSAR: A R Package for QSAR Modeling with SEND Database
+Version: 0.1.0
+Authors: c(
+    person(
+      "Sadashiv Aggarwal",
+      email = "sraggarwal20@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: This package delivers a complete, reproducible workflow for QSAR 
+    model development using SEND data. It automates data retrieval and preprocessing, 
+    computes organ‑specific toxicity scores, derives molecular descriptors, and
+    provides built‑in tools for rigorous model evaluation—so you can focus on
+    uncovering predictive insights rather than writing boilerplate code. 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends:
+  devtools,
+  magrittr,
+  dplyr,
+  stringr
+
